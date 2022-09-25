@@ -18,8 +18,8 @@
   },
   "require-dev": {
     "phpunit/phpunit": "9.5.19",
-    "phpfastcache/phpfastcache": "9.0.*",
-    "guzzlehttp/guzzle": "7.4.*"
+    "phpfastcache/phpfastcache": "9.0.2",
+    "guzzlehttp/guzzle": "7.4.5"
   },
   "autoload": {
     "psr-4": {
